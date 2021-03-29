@@ -1,5 +1,5 @@
-npm i - установка пакетов
+npm i - установка пакетов 
+npm run start - локальный запуск 
+http://localhost:8081/ 
 
-npm run start - локальный запуск
-
-npm run build - сборка в папку dist/
+npm run build - сборка в папку dist/ 
